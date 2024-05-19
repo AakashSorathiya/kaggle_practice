@@ -2,4 +2,9 @@ Include/
 Lib/
 Scripts/
 share/
+Library/
+__pycache__/
 pyvenv*.*
+**.jpg
+**.jpeg
+**.png
